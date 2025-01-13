@@ -12,7 +12,7 @@
 
 	<groupId>com.cats</groupId>
 	<artifactId>rack-health-ms</artifactId>
-	<version>24.11.2-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<packaging>jar</packaging>
 	<name>rack-health-ms</name>
 	<description>Rack Health Ms</description>
